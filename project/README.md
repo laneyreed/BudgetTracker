@@ -1,7 +1,9 @@
-# BudgetTracker
 
-# Steps
-1. Create Project Starting Structure
+
+1. Project Structure
+
+Create the directories and __init__.py files to make them Python packages: 
+
 ```
 ├── data/
 │   ├── __init__.py
@@ -14,4 +16,3 @@
 ├── utils/
 │   ├── __init__.py
 ```
-
