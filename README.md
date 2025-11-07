@@ -19,3 +19,7 @@
 │   ├── __init__.py
 │   ├── constants.py
 ```
+3. Core Models
+- `models/transaction.py`: Fundamental data structure ☑️
+- `models/category.py`: Categories for organizing transactions
+- `models/account.py`: Bank accounts/wallets
