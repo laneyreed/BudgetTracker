@@ -9,10 +9,10 @@ class CategoryType(Enum):
     EXPENSE = "expense"
 
 class AccountType(Enum):
-    CHECKING = "checking"
-    SAVINGS = "savings"
-    CREDIT_CARD = "credit_card"
-    CASH = "cash"
+    CHECKING = "Checking"
+    SAVINGS = "Savings"
+    CREDIT_CARD = "Credit Card"
+    CASH = "Cash"
 
 class BudgetPeriod(Enum):
     DAILY = "daily"
